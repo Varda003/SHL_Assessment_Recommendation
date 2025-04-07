@@ -12,8 +12,9 @@ It is developed as part of a job assessment task using Python and Streamlit fram
 ---
 
 Live Demo
-🚀 Check the Live Project Here:
-https://your-app-name.streamlit.app/
+🚀 Check the Live Project Here: 
+SHL Assessment Recommendation App - (https://varda003-shl-assessment-recommendation-app-umhbza.streamlit.app/)
+
 
 
 ## Tech Stack Used  
